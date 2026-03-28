@@ -1,0 +1,7 @@
+{
+  "name": "Aryaa Banquet Hall",
+  "description": "Premium luxury banquet hall in Delhi for weddings, parties, and grand events.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
